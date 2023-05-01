@@ -8,7 +8,7 @@ This is a simple xcode project showing the basic functions of apple`s Keychain t
 
 # Install:
 - Download ZIP from: https://github.com/weristdominik/KeychainExample
-- Got to .\KeychainExample-main\KeychainExample
+- Go to .\KeychainExample-main\KeychainExample
 - Run/open KeyChainExample.xcodeproj
 
 
@@ -16,3 +16,5 @@ This is a simple xcode project showing the basic functions of apple`s Keychain t
 https://developer.apple.com/documentation/security/keychain_services/keychain_items
 
 
+
+# More on www.netcram.de
